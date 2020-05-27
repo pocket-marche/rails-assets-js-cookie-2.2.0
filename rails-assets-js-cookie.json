@@ -1,0 +1,32 @@
+{
+  "name": "rails-assets-js-cookie",
+  "downloads": null,
+  "version": "2.2.0",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://github.com/js-cookie/js-cookie",
+  "gem_uri": null,
+  "homepage_uri": "https://github.com/js-cookie/js-cookie",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://github.com/js-cookie/js-cookie",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
